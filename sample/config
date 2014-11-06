@@ -1,0 +1,5 @@
+{
+"addr": ":8088",
+"route": "/get",
+"valid": ["wordsworth", "theprelude"]
+}
